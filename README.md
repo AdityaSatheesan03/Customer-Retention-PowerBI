@@ -34,24 +34,24 @@ This section displays demographic details about your customer base, such as gend
 
 **2. Customer Account Information:** <br>
 This section provides insights into customer account details, including: <br>
-Tenure (how long they have been a customer) <br>
-Contract type <br>
-Payment method <br>
-Paperless billing status <br>
-Monthly charges <br>
-Total charges <br>
-Number of tickets opened (administrative and technical) <br>
++ Tenure (how long they have been a customer) <br>
++ Contract type <br>
++ Payment method <br>
++ Paperless billing status <br>
++ Monthly charges <br>
++ Total charges <br>
++ Number of tickets opened (administrative and technical) <br>
 
 **3. Subscribed Services:** <br>
 This section analyzes the services each customer has signed up for, such as: <br>
-Phone service <br>
-Multiple lines <br>
-Internet service <br>
-Online security <br>
-Online backup <br>
-Device protection <br>
-Tech support <br>
-Streaming TV and movies <br>
++ Phone service <br>
++ Multiple lines <br>
++ Internet service <br>
++ Online security <br>
++ Online backup <br>
++ Device protection <br>
++ Tech support <br>
++ Streaming TV and movies <br>
 
 By understanding the subscribed services, you can identify opportunities for upselling, cross-selling, or tailoring retention strategies based on the specific services customers are using.
 
