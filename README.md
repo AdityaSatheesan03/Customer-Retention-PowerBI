@@ -1,4 +1,4 @@
-# Customer-Retention-PowerBI
+# Customer Retention - Power BI Dashboard
 This repository contains a Power BI dashboard that analyzes customer retention and provides insights into customer demographics. The dashboard is designed to help businesses understand their customer base better and identify areas for improvement in customer retention strategies.
 
 # Dataset Overview
