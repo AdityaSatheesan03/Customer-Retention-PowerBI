@@ -55,6 +55,12 @@ This section analyzes the services each customer has signed up for, such as: <br
 
 By understanding the subscribed services, you can identify opportunities for upselling, cross-selling, or tailoring retention strategies based on the specific services customers are using.
 
+# Power BI Dashboard
+![Customer Retention PowerBI_page-0001](https://github.com/AdityaSatheesan03/Customer-Retention-PowerBI/assets/137158225/bea3a8e6-349e-40df-bb7a-52938e99cb91)
+![Customer Retention PowerBI_page-0002](https://github.com/AdityaSatheesan03/Customer-Retention-PowerBI/assets/137158225/e642a4fb-dfa4-4261-8a01-4d7f59895ce2)
+![Customer Retention PowerBI_page-0003](https://github.com/AdityaSatheesan03/Customer-Retention-PowerBI/assets/137158225/6e5eca86-fc85-44b6-a339-c608f14345ec)
+![Customer Retention PowerBI_page-0004](https://github.com/AdityaSatheesan03/Customer-Retention-PowerBI/assets/137158225/606d8b33-905b-4d62-8528-d9d3ff15f352)
+
 # Usage
 Leverage the provided dataset and Power BI reports to gain deep insights into customer behavior patterns and churn drivers. Tailor the analysis to your specific business needs by integrating additional data sources or refining predictive models. Utilize this repository as a valuable resource for mastering Power BI techniques in customer analytics and churn prediction.
 
